@@ -55,6 +55,7 @@ function SearchPlant(props) {
               Search
             </Label>
             <Input
+              required
               type="text"
               id="search"
               name="search"
